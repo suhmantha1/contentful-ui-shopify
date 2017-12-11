@@ -42,7 +42,7 @@ Create task will register the extension in your space on Contentful.
 
 ### Update
 
-    ```sh
+```sh
 npm run update
 ```
 
